@@ -40,10 +40,13 @@
 	"buffers":
 	[
 		{
+			"contents": "<!DOCTYPE html>\n<html>\n  <head>\n    <title>Greeting</title>\n  </head>\n  <body>\n    <p>Hello, world!</p>\n  </body>\n</html>",
 			"file": "/Users/justinmares/Documents/Programming/rails_projects/sample_app/public/hello.html",
+			"file_size": 121,
+			"file_write_time": 1344376612000000,
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 121,
 				"line_ending": "Unix"
 			}
 		}
@@ -126,15 +129,15 @@
 					"file": "/Users/justinmares/Documents/Programming/rails_projects/sample_app/public/hello.html",
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 121,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								121,
+								121
 							]
 						],
 						"settings":
@@ -192,6 +195,10 @@
 		"selected_items":
 		[
 			[
+				"",
+				"/Users/justinmares/Documents/programming/rails_projects/sample_app/sample_app.sublime-project"
+			],
+			[
 				"user.rb",
 				"/Users/justinmares/Documents/Programming/rails_projects/demo_app/app/models/micropost.rb"
 			]
@@ -209,7 +216,7 @@
 	"show_minimap": true,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": false,
+	"side_bar_visible": true,
 	"side_bar_width": 150.0,
 	"status_bar_visible": true
 }
